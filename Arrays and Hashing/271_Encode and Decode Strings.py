@@ -25,4 +25,4 @@ class Solution:
             i = j + 1 + length
         return decoded
 
-# Link to the code explanation:
+# Link to the code explanation: https://medium.com/@akankshawagh/neetcode-150-solutions-explained-arrays-hashing-ed0c6184f387
