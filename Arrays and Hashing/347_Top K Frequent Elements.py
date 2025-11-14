@@ -14,4 +14,4 @@ class Solution:
         freq_map = Counter(nums)
         return [num for num, _ in nlargest(k, freq_map.items(), key=lambda x: x[1])]
 
-# Link to the code explanation:
+# Link to the code explanation: https://medium.com/@akankshawagh/neetcode-150-solutions-explained-arrays-hashing-ed0c6184f387
