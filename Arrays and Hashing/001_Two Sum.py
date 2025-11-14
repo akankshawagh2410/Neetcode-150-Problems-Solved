@@ -14,4 +14,4 @@ class Solution:
                 return [seen[complement], i]
             seen[num] = i
 
-# Link to the code explanation: [Link to the Blog](https://medium.com/@akankshawagh/neetcode-150-solutions-explained-arrays-hashing-ed0c6184f387)
+# Link to the code explanation: https://medium.com/@akankshawagh/neetcode-150-solutions-explained-arrays-hashing-ed0c6184f387
